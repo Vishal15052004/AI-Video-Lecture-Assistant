@@ -56,25 +56,6 @@ Answer + Timestamp
 
 ---
 
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/AI-Video-Lecture-Assistant.git
-```
-
-Move into the project directory
-
-```bash
-cd AI-Video-Lecture-Assistant
-```
-
-Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
 
 Create a `.env` file and add your Groq API key
 
