@@ -81,24 +81,6 @@ streamlit run app.py
 
 The application retrieves the most relevant transcript chunks, generates an answer using the LLM, and displays the timestamps where the topic is discussed.
 
----
-
-## Project Structure
-
-```
-├── app.py
-├── query.py
-├── process_video.py
-├── segmentation.py
-├── build_embeddings.py
-├── build_faiss.py
-├── embeddings.json
-├── segments.json
-├── video.index
-├── requirements.txt
-├── .env
-└── README.md
-```
 
 ---
 
